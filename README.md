@@ -1,8 +1,6 @@
-### Hi there 👋
-
 ### Hello World 👋
 I am a software engineer from India
-- 🔭 Working on multiple frontend and backend project using React and Nodejs
+- 🔭 Working as backend developer using Go, Kubernetes and ETCD
 - 🌱 Learning design patterns and system designs
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vansika-gupta-20bb27159)
